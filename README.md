@@ -5,7 +5,7 @@
 ## Run
 
 ```sh
-go test -count=1
+go test -count=10
 ```
 
 ## What it does
